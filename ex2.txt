@@ -1,0 +1,8 @@
+x = 15
+y = 20
+result = x + y
+
+if result >= 30
+    print true
+else
+    print false
